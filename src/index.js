@@ -1,2 +1,2 @@
 import './css/style.css';
-import './js/destruct';
+import './js/set';
